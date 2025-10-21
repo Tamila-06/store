@@ -46,3 +46,53 @@
   display: flex;
 
 }
+.hero-section{
+  width: 1280px;
+height: 600px;
+background-image: url("image/hero-bg.png");
+padding-top: 163px;
+padding-left: 130px;
+}
+.hero-title{
+  color: rgba(60, 64, 67, 1);
+font-family: Roboto;
+font-size: 57px;
+font-weight: 400;
+line-height: 68px;
+letter-spacing: 2px;
+text-align: left;
+margin-bottom: 14px;
+}
+.hero-text{
+  color: rgba(60, 64, 67, 1);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 8px;
+}
+.hero-button{
+  width: 143px;
+height: 40px;
+  padding: 8px 20px;
+  
+  margin-right: 26px;
+  color: rgba(60, 64, 67, 1);
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border: 2px solid rgba(60, 64, 67, 1);
+border-radius: 4px;
+background-color: rgba(255, 255, 255, 0.15);
+}
+.hero-texts{
+display: flex;
+padding-top: 30px;
+}
